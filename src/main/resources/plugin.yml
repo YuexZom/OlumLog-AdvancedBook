@@ -1,0 +1,6 @@
+name: OlumLog
+version: '${version}'
+main: me.rexoz.xyz.olumlog.Main
+commands:
+  olumlog:
+
